@@ -6,4 +6,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Galaxiana07/Galaxiana07/output/pacman-contribution-graph.svg">
 </picture>
 
-###
