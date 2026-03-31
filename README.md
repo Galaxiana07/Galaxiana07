@@ -2,6 +2,7 @@
 
 <p>aaaaaaaaaa</p>
 
+<h2>Tecnologias e Ferramentas👩‍💻</h2>
 <div>
     <div>
         <!-- habilidades -->
@@ -10,6 +11,7 @@
 
 <br>
 
+<h2>Contate-me💌</h2>
 <div align="left">
     <!-- contato-->
     <a href="https://mail.google.com/mail/?view=cm&to=annallicce5@gmail.com" target="_blank">
