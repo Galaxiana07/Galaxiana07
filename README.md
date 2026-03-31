@@ -3,7 +3,7 @@
 <p></p>
 
 
-    <section>
+    <div>
         <div>
             <!-- habilidades -->
             <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,vscode,figma">
@@ -21,7 +21,7 @@
             </a>
         </div>
         <img align="right" src="https://i.pinimg.com/originals/16/8a/bc/168abcdc633cff551c0d66da98a37a39.gif" alt="Hello Kitty" height="200px">
-    </section>
+    </div>
 
 <br>
 
