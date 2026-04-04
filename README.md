@@ -1,6 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Borel&display=swap" rel="stylesheet">
+
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Borel&size=35&left=true&vleft=true&width=500&height=70&duration=4000&color=FFC0CB&lines=Olá!🌼+;+Eu+me+chamo+Analice!😊+;" />
 
