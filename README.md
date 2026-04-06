@@ -40,7 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galaxiana07&theme=calm_pink&hide_border=true&background=0D1117&random=1" height="175" alt="GitHub Streak" />
 </div>
 
-<h2>Contate-me✉️</h2>
+<h2>Contate-me💌</h2>
 <div align="left">
     <!-- contato-->
     <a href="https://mail.google.com/mail/?view=cm&to=annallicce5@gmail.com" target="_blank">
