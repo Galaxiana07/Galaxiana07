@@ -25,6 +25,21 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Galaxiana07/Galaxiana07/output/pacman-contribution-graph-dark.svg">
 </picture>
 
+<div align="center">
+  <table border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Galaxiana07&show_icons=true&theme=calm_pink&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1" height="175" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Galaxiana07&layout=compact&theme=calm_pink&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1&exclude_repo=github-readme-stats" height="175" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galaxiana07&theme=calm_pink&hide_border=true&background=0D1117&random=1" height="175" alt="GitHub Streak" />
+</div>
+
 <h2>Contate-me✉️</h2>
 <div align="left">
     <!-- contato-->
