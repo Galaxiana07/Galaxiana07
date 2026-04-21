@@ -12,7 +12,7 @@
 <p>Trabalho criando soluções visuais ondecombinando design e front-end, explorando artes digitais para dar forma a projetos criativos e funcionais. Entre as tecnologias que utilizo estão:</p>
 <div>
     <!-- habilidades -->
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,vscode,figma">
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,vscode,figma,nodejs">
 </div>
 
 <br>
